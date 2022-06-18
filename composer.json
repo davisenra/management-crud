@@ -1,0 +1,17 @@
+{
+    "name": "davi/management-crud",
+    "description": "Simple management webapp",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Davi Martins",
+            "email": "davi.senra98@gmail.com"
+        }
+    ],
+    "require": {}
+}
